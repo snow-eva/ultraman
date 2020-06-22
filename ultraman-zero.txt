@@ -9,3 +9,5 @@
 这是seven再改文件，尝试让zero使用pull操作抓取文件。 edit by ultraman-zero
 
 这是迪迦正在修改文件，迪迦不是赛罗团队的成员，正在尝试跨团队协作操作。
+
+尝试使用ssh免密登录，这次是尝试普通push。
